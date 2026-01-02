@@ -22,4 +22,4 @@ Complete technical documentation is available in this repository:
 * **Concepts:** Linked List, Queue, Stack, OOP.
 
 ---
-*Created by Group 7 - S1 Information Systems UPN “Veteran” Jakarta*
+*Created by Group 7 Class F - S1 Information Systems UPN “Veteran” Jakarta*
